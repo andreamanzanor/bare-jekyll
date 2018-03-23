@@ -1,4 +1,4 @@
-A Jekyll bare site without gem based theme or even remote-theme.
+lA Jekyll bare site without gem based theme or even remote-theme.
 
 Just something to simply start hacking.
 
